@@ -15,7 +15,7 @@ export default function Home() {
           <p>To  the girl that stole my heart</p>
           </div>
           <Image
-          className="dark:invert"
+          className=" "
           src="/heart.png"
           alt="Next.js logo"
           width={150}
@@ -25,7 +25,7 @@ export default function Home() {
         </div>
 
         <Image
-          className="dark:invert"
+          className=" "
           src="/three_images_compacted.png"
           alt="Next.js logo"
           width={600}
@@ -41,7 +41,7 @@ export default function Home() {
         <div className="flex flex-row gap-[15px]">
         <div className="w-50">  
          <Image
-          className="dark:invert"
+          className=" "
           src="/picnic_image.png"
           alt="Next.js logo"
           width={180}
@@ -65,7 +65,7 @@ export default function Home() {
          
          <div className="w-50">  
           <Image
-          className="dark:invert"
+          className=" "
           src="/beach_image.png"
           alt="Next.js logo"
           width={180}
@@ -86,7 +86,7 @@ export default function Home() {
 
         <div className="w-50">  
          <Image
-          className="dark:invert"
+          className=" "
           src="/escape_room_image.png"
           alt="Next.js logo"
           width={180}
@@ -108,7 +108,7 @@ export default function Home() {
         </div>
        
          <Image
-          className="dark:invert"
+          className=" "
           src="/Loggergead.png"
           alt="Next.js logo"
           width={360}
@@ -154,7 +154,7 @@ export default function Home() {
         </div>
 
         <Image
-          className="dark:invert"
+          className=" "
           src="/drawing.png"
           alt="Next.js logo"
           width={360}
@@ -168,7 +168,7 @@ export default function Home() {
          <div>
          <h2 className=" text-2xl">Gradbash</h2>
          <Image
-          className="dark:invert"
+          className=" "
           src="/Gradbash.png"
           alt="Next.js logo"
           width={360}
@@ -183,7 +183,7 @@ export default function Home() {
          <div>
           <h2 className=" text-2xl">Prom</h2>
           <Image
-          className="dark:invert"
+          className=" "
           src="/Prom.png"
           alt="Next.js logo"
           width={360}
@@ -202,7 +202,7 @@ export default function Home() {
 
 
          <Image
-          className="dark:invert"
+          className=" "
           src="/Collage.png"
           alt="Next.js logo"
           width={720}

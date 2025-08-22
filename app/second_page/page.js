@@ -23,7 +23,7 @@ export default function Home() {
         </div>
 
         <Image
-          className="dark:invert"
+          className=" "
           src="/dec16th.png"
           alt="Next.js logo"
           width={600}
@@ -45,7 +45,7 @@ export default function Home() {
 
         <div>
          <Image
-          className="dark:invert"
+          className=" "
           src="/Jan_first.png"
           alt="Next.js logo"
           width={2000}
@@ -70,7 +70,7 @@ export default function Home() {
         
         <div className="flex flex-row gap-[20px]">
         <Image
-          className="dark:invert"
+          className=" "
           src="/Italian_restaurant.png"
           alt="Next.js logo"
           width={360}
@@ -78,7 +78,7 @@ export default function Home() {
           priority
         /> 
         <Image
-          className="dark:invert"
+          className=" "
           src="/Outback_feeding.png"
           alt="Next.js logo"
           width={360}
@@ -86,7 +86,7 @@ export default function Home() {
           priority
         /> 
         <Image
-          className="dark:invert"
+          className=" "
           src="/Stuck_under_bridge.png"
           alt="Next.js logo"
           width={360}
